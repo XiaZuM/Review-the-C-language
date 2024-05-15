@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/5_14.dir/test.c.o CMakeFiles/5_14.dir/add.c.o -o 5_14.exe -Wl,--out-implib,lib5_14.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
