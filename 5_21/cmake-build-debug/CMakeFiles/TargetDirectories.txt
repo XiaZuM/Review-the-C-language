@@ -1,0 +1,3 @@
+/cygdrive/d/code/c/2024/5_21/cmake-build-debug/CMakeFiles/5_21.dir
+/cygdrive/d/code/c/2024/5_21/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/code/c/2024/5_21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
